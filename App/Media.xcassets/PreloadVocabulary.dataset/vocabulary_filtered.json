@@ -1,0 +1,586 @@
+[
+  {
+    "language": "spanish",
+    "lastSeen": 792174740.789023,
+    "occurrences": 1,
+    "sources": [
+      "classification"
+    ],
+    "lemma": "el avión",
+    "translation": "plane, airplane",
+    "captureRefs": [
+      {
+        "bounds": [
+          [
+            0,
+            0
+          ],
+          [
+            1,
+            1
+          ]
+        ],
+        "captureId": "340030E4-568A-47BA-A21F-01C94B86ABA9",
+        "capturedAt": 792174740.789023
+      }
+    ],
+    "firstSeen": 792174740.789023
+  },
+  {
+    "language": "spanish",
+    "lastSeen": 792166352.186234,
+    "occurrences": 1,
+    "sources": [
+      "ocr"
+    ],
+    "lemma": "el zumo",
+    "translation": "juice",
+    "captureRefs": [
+      {
+        "bounds": [
+          [
+            0.5048255660606306,
+            0.5043604532877604
+          ],
+          [
+            0.18430342497649016,
+            0.0623467763264974
+          ]
+        ],
+        "captureId": "DC4275C7-AFF1-4710-A873-789EB7E1F896",
+        "capturedAt": 792166352.186234
+      }
+    ],
+    "firstSeen": 792166352.186234
+  },
+  {
+    "language": "spanish",
+    "lastSeen": 792166091.222595,
+    "occurrences": 3,
+    "sources": [
+      "ocr",
+      "classification"
+    ],
+    "lemma": "la manzana",
+    "translation": "apple",
+    "captureRefs": [
+      {
+        "bounds": [
+          [
+            0,
+            0
+          ],
+          [
+            1,
+            1
+          ]
+        ],
+        "captureId": "660D754A-312A-42DF-B6B3-9E9FA5EDC55C",
+        "capturedAt": 792166074.624896
+      },
+      {
+        "bounds": [
+          [
+            0,
+            0
+          ],
+          [
+            1,
+            1
+          ]
+        ],
+        "captureId": "BEDC15C2-6A00-4757-9523-839ED8803AC6",
+        "capturedAt": 792166091.222595
+      },
+      {
+        "bounds": [
+          [
+            0.37289417635793953,
+            0.2745892206827801
+          ],
+          [
+            0.2620252538610388,
+            0.03373998006184898
+          ]
+        ],
+        "captureId": "BEDC15C2-6A00-4757-9523-839ED8803AC6",
+        "capturedAt": 792166091.222595
+      }
+    ],
+    "firstSeen": 792166074.624896
+  },
+  {
+    "language": "spanish",
+    "lastSeen": 792165233.701944,
+    "occurrences": 1,
+    "sources": [
+      "classification"
+    ],
+    "lemma": "el árbol",
+    "translation": "tree",
+    "captureRefs": [
+      {
+        "bounds": [
+          [
+            0,
+            0
+          ],
+          [
+            1,
+            1
+          ]
+        ],
+        "captureId": "25C442B2-2F2E-4EC1-BC25-DDA9798D9E85",
+        "capturedAt": 792165233.701944
+      }
+    ],
+    "firstSeen": 792165233.701944
+  },
+  {
+    "language": "spanish",
+    "lastSeen": 792164825.42729,
+    "occurrences": 1,
+    "sources": [
+      "classification"
+    ],
+    "lemma": "el balcón",
+    "translation": "balcony",
+    "captureRefs": [
+      {
+        "bounds": [
+          [
+            0,
+            0
+          ],
+          [
+            1,
+            1
+          ]
+        ],
+        "captureId": "4A8A517C-E9B6-4794-B8F8-63876C13797B",
+        "capturedAt": 792164825.42729
+      }
+    ],
+    "firstSeen": 792164825.42729
+  },
+  {
+    "language": "spanish",
+    "lastSeen": 792164722.272193,
+    "occurrences": 2,
+    "sources": [
+      "classification"
+    ],
+    "lemma": "la calleja",
+    "translation": "alley, narrow street",
+    "captureRefs": [
+      {
+        "bounds": [
+          [
+            0,
+            0
+          ],
+          [
+            1,
+            1
+          ]
+        ],
+        "captureId": "BC7CB9EA-0A7D-4E22-9B48-EB842102730B",
+        "capturedAt": 792164658.857944
+      },
+      {
+        "bounds": [
+          [
+            0,
+            0
+          ],
+          [
+            1,
+            1
+          ]
+        ],
+        "captureId": "670C8EE3-41EE-40C6-93A7-FB7D4DEEF2AA",
+        "capturedAt": 792164722.272193
+      }
+    ],
+    "firstSeen": 792164658.857944
+  },
+  {
+    "language": "spanish",
+    "lastSeen": 792139293.01117,
+    "occurrences": 2,
+    "sources": [
+      "classification"
+    ],
+    "lemma": "la barca",
+    "translation": "boat, small boat",
+    "captureRefs": [
+      {
+        "bounds": [
+          [
+            0,
+            0
+          ],
+          [
+            1,
+            1
+          ]
+        ],
+        "captureId": "A8A492FE-164B-4AD7-ABBB-14776F8C5FB5",
+        "capturedAt": 792139281.734381
+      },
+      {
+        "bounds": [
+          [
+            0,
+            0
+          ],
+          [
+            1,
+            1
+          ]
+        ],
+        "captureId": "E9BC12EB-ECF8-4286-A7B4-3546520A2A35",
+        "capturedAt": 792139293.01117
+      }
+    ],
+    "firstSeen": 792139281.734381
+  },
+  {
+    "language": "spanish",
+    "lastSeen": 792138897.47817,
+    "occurrences": 1,
+    "sources": [
+      "classification"
+    ],
+    "lemma": "el océano",
+    "translation": "ocean, sea",
+    "captureRefs": [
+      {
+        "bounds": [
+          [
+            0,
+            0
+          ],
+          [
+            1,
+            1
+          ]
+        ],
+        "captureId": "6EFE308D-5D04-4AB4-BC50-917F1AE3AFD4",
+        "capturedAt": 792138897.47817
+      }
+    ],
+    "firstSeen": 792138897.47817
+  },
+  {
+    "language": "spanish",
+    "lastSeen": 792098735.233459,
+    "occurrences": 1,
+    "sources": [
+      "classification"
+    ],
+    "lemma": "el plátano",
+    "translation": "banana, plantain",
+    "captureRefs": [
+      {
+        "bounds": [
+          [
+            0,
+            0
+          ],
+          [
+            1,
+            1
+          ]
+        ],
+        "captureId": "FCC02D2F-F27C-4728-AB7B-4DB0321F08B1",
+        "capturedAt": 792098735.233459
+      }
+    ],
+    "firstSeen": 792098735.233459
+  },
+  {
+    "language": "spanish",
+    "lastSeen": 792098613.394513,
+    "occurrences": 1,
+    "sources": [
+      "classification"
+    ],
+    "lemma": "el tomate",
+    "translation": "tomato",
+    "captureRefs": [
+      {
+        "bounds": [
+          [
+            0,
+            0
+          ],
+          [
+            1,
+            1
+          ]
+        ],
+        "captureId": "AD4862C6-5528-4BC0-BD96-640AA780DB74",
+        "capturedAt": 792098613.394513
+      }
+    ],
+    "firstSeen": 792098613.394513
+  },
+  {
+    "language": "spanish",
+    "lastSeen": 792093816.351868,
+    "occurrences": 1,
+    "sources": [
+      "classification"
+    ],
+    "lemma": "el florero",
+    "translation": "vase, flowerpot",
+    "captureRefs": [
+      {
+        "bounds": [
+          [
+            0,
+            0
+          ],
+          [
+            1,
+            1
+          ]
+        ],
+        "captureId": "C77C53E7-36B6-46EE-A4A5-65691FE9A7A8",
+        "capturedAt": 792093816.351868
+      }
+    ],
+    "firstSeen": 792093816.351868
+  },
+  {
+    "language": "spanish",
+    "lastSeen": 792091740.330442,
+    "occurrences": 1,
+    "sources": [
+      "classification"
+    ],
+    "lemma": "la moto",
+    "translation": "motorcycle, bike",
+    "captureRefs": [
+      {
+        "bounds": [
+          [
+            0,
+            0
+          ],
+          [
+            1,
+            1
+          ]
+        ],
+        "captureId": "31A2F996-5E5D-4D57-A88B-22C3BAE71F44",
+        "capturedAt": 792091740.330442
+      }
+    ],
+    "firstSeen": 792091740.330442
+  },
+  {
+    "language": "spanish",
+    "lastSeen": 792079605.289291,
+    "occurrences": 2,
+    "sources": [
+      "ocr"
+    ],
+    "lemma": "la oferta",
+    "translation": "offer",
+    "captureRefs": [
+      {
+        "bounds": [
+          [
+            0.3236810495042793,
+            0.5727268218994142
+          ],
+          [
+            0.4041628237123842,
+            0.036801656087239586
+          ]
+        ],
+        "captureId": "40C4708F-6CDC-4F94-A66D-0C8F0CE7631F",
+        "capturedAt": 792079580.808677
+      },
+      {
+        "bounds": [
+          [
+            0.35990730795877873,
+            0.5868658701578777
+          ],
+          [
+            0.362673243769893,
+            0.03343346913655603
+          ]
+        ],
+        "captureId": "78E36834-7636-4ECA-A77A-1C1DCA0E656D",
+        "capturedAt": 792079605.289291
+      }
+    ],
+    "firstSeen": 792079580.808677
+  },
+  {
+    "language": "spanish",
+    "lastSeen": 792079209.590556,
+    "occurrences": 1,
+    "sources": [
+      "classification"
+    ],
+    "lemma": "la máquina",
+    "translation": "machine",
+    "captureRefs": [
+      {
+        "bounds": [
+          [
+            0,
+            0
+          ],
+          [
+            1,
+            1
+          ]
+        ],
+        "captureId": "9A10B36C-0840-46A5-8910-79B41E39E912",
+        "capturedAt": 792079209.590556
+      }
+    ],
+    "firstSeen": 792079209.590556
+  },
+  {
+    "language": "spanish",
+    "lastSeen": 792079145.782009,
+    "occurrences": 1,
+    "sources": [
+      "classification"
+    ],
+    "lemma": "la estantería",
+    "translation": "shelf, shelving",
+    "captureRefs": [
+      {
+        "bounds": [
+          [
+            0,
+            0
+          ],
+          [
+            1,
+            1
+          ]
+        ],
+        "captureId": "6375CA4E-CDDA-492D-8F3E-F2ABE12508BA",
+        "capturedAt": 792079145.782009
+      }
+    ],
+    "firstSeen": 792079145.782009
+  },
+  {
+    "language": "spanish",
+    "lastSeen": 792071661.444127,
+    "occurrences": 1,
+    "sources": [
+      "ocr"
+    ],
+    "lemma": "la clínica",
+    "translation": "clinic",
+    "captureRefs": [
+      {
+        "bounds": [
+          [
+            0.20292208863911723,
+            0.5930232365926107
+          ],
+          [
+            0.356493490713614,
+            0.027810096740722656
+          ]
+        ],
+        "captureId": "C516F749-24D5-4DAF-AA68-4311C52AE887",
+        "capturedAt": 792071661.444127
+      }
+    ],
+    "firstSeen": 792071661.444127
+  },
+  {
+    "language": "spanish",
+    "lastSeen": 792005390.057285,
+    "occurrences": 1,
+    "sources": [
+      "classification"
+    ],
+    "lemma": "la expendedora",
+    "translation": "vending machine",
+    "captureRefs": [
+      {
+        "bounds": [
+          [
+            0,
+            0
+          ],
+          [
+            1,
+            1
+          ]
+        ],
+        "captureId": "36AF7E82-55F4-4374-8BD6-FDF4C216D91D",
+        "capturedAt": 792005390.057285
+      }
+    ],
+    "firstSeen": 792005390.057285
+  },
+  {
+    "language": "spanish",
+    "lastSeen": 791992352.090971,
+    "occurrences": 1,
+    "sources": [
+      "classification"
+    ],
+    "lemma": "la bicicleta",
+    "translation": "bicycle, bike",
+    "captureRefs": [
+      {
+        "bounds": [
+          [
+            0,
+            0
+          ],
+          [
+            1,
+            1
+          ]
+        ],
+        "captureId": "2CD27CEA-C545-493E-96C9-E00F67AF77A1",
+        "capturedAt": 791992352.090971
+      }
+    ],
+    "firstSeen": 791992352.090971
+  },
+  {
+    "language": "spanish",
+    "lastSeen": 791933354.795216,
+    "occurrences": 1,
+    "sources": [
+      "classification"
+    ],
+    "lemma": "el billar",
+    "translation": "billiards, pool",
+    "captureRefs": [
+      {
+        "bounds": [
+          [
+            0,
+            0
+          ],
+          [
+            1,
+            1
+          ]
+        ],
+        "captureId": "C096DA29-EBFC-4EBD-8593-84E2D7171944",
+        "capturedAt": 791933354.795216
+      }
+    ],
+    "firstSeen": 791933354.795216
+  }
+]

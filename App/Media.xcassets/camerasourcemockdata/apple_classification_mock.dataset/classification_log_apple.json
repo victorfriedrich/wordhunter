@@ -1,0 +1,222 @@
+[
+  {
+    "allClassifications" : [
+      {
+        "confidence" : 0.82711536,
+        "label" : "food"
+      },
+      {
+        "confidence" : 0.82514966,
+        "label" : "fruit"
+      },
+      {
+        "confidence" : 0.82128906,
+        "label" : "apple"
+      },
+      {
+        "confidence" : 0.7001953,
+        "label" : "document"
+      },
+      {
+        "confidence" : 0.7001953,
+        "label" : "handwriting"
+      },
+      {
+        "confidence" : 0.5479163,
+        "label" : "container"
+      },
+      {
+        "confidence" : 0.53027344,
+        "label" : "basket container"
+      },
+      {
+        "confidence" : 0.3544922,
+        "label" : "pomegranate"
+      },
+      {
+        "confidence" : 0.3425293,
+        "label" : "interior room"
+      },
+      {
+        "confidence" : 0.3425293,
+        "label" : "interior shop"
+      },
+      {
+        "confidence" : 0.30151382,
+        "label" : "vegetable"
+      },
+      {
+        "confidence" : 0.30151367,
+        "label" : "tomato"
+      },
+      {
+        "confidence" : 0.28271484,
+        "label" : "cardboard box"
+      },
+      {
+        "confidence" : 0.24414062,
+        "label" : "crate"
+      },
+      {
+        "confidence" : 0.21435547,
+        "label" : "carton"
+      },
+      {
+        "confidence" : 0.19798897,
+        "label" : "structure"
+      },
+      {
+        "confidence" : 0.19091797,
+        "label" : "wood processed"
+      },
+      {
+        "confidence" : 0.15939705,
+        "label" : "people"
+      },
+      {
+        "confidence" : 0.12011719,
+        "label" : "chalkboard"
+      },
+      {
+        "confidence" : 0.07107006,
+        "label" : "material"
+      },
+      {
+        "confidence" : 0.064453125,
+        "label" : "textile"
+      },
+      {
+        "confidence" : 0.0625,
+        "label" : "adult"
+      },
+      {
+        "confidence" : 0.059814453,
+        "label" : "pear"
+      },
+      {
+        "confidence" : 0.03149414,
+        "label" : "nectarine"
+      },
+      {
+        "confidence" : 0.029541016,
+        "label" : "mango"
+      },
+      {
+        "confidence" : 0.028884288,
+        "label" : "citrus fruit"
+      },
+      {
+        "confidence" : 0.028564453,
+        "label" : "oranges"
+      },
+      {
+        "confidence" : 0.025400784,
+        "label" : "luggage"
+      },
+      {
+        "confidence" : 0.025388075,
+        "label" : "bag"
+      },
+      {
+        "confidence" : 0.024414062,
+        "label" : "paper bag"
+      },
+      {
+        "confidence" : 0.021240236,
+        "label" : "tool"
+      },
+      {
+        "confidence" : 0.021240234,
+        "label" : "weight scale"
+      },
+      {
+        "confidence" : 0.01831158,
+        "label" : "furniture"
+      },
+      {
+        "confidence" : 0.018310547,
+        "label" : "table"
+      },
+      {
+        "confidence" : 0.016357422,
+        "label" : "peach"
+      },
+      {
+        "confidence" : 0.01586914,
+        "label" : "banana"
+      },
+      {
+        "confidence" : 0.015380859,
+        "label" : "sack"
+      },
+      {
+        "confidence" : 0.012220995,
+        "label" : "outdoor"
+      },
+      {
+        "confidence" : 0.012207031,
+        "label" : "building"
+      },
+      {
+        "confidence" : 0.012207031,
+        "label" : "storefront"
+      },
+      {
+        "confidence" : 0.011962891,
+        "label" : "kiwi"
+      },
+      {
+        "confidence" : 0.011962891,
+        "label" : "mandarine"
+      },
+      {
+        "confidence" : 0.011724452,
+        "label" : "plant"
+      },
+      {
+        "confidence" : 0.01171875,
+        "label" : "foliage"
+      },
+      {
+        "confidence" : 0.010986328,
+        "label" : "pumpkin"
+      },
+      {
+        "confidence" : 0.010986328,
+        "label" : "raw glass"
+      },
+      {
+        "confidence" : 0.010498047,
+        "label" : "bottle"
+      },
+      {
+        "confidence" : 0.010009766,
+        "label" : "passionfruit"
+      },
+      {
+        "confidence" : 0.009765625,
+        "label" : "lemon"
+      },
+      {
+        "confidence" : 0.009521484,
+        "label" : "pineapple"
+      }
+    ],
+    "captureId" : "677E4B7B-4AAA-406B-8324-3913F9D375BE",
+    "selectedWords" : [
+      {
+        "lemma" : "la manzana",
+        "originLabel" : "apple",
+        "source" : "classification",
+        "translation" : "apple"
+      },
+      {
+        "lemma" : "la manzana",
+        "originLabel" : "MANZANA",
+        "source" : "ocr",
+        "translation" : "apple"
+      }
+    ],
+    "timestamp" : "2026-02-17T14:38:10Z"
+  }
+]

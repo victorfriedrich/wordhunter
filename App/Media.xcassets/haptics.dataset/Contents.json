@@ -1,0 +1,13 @@
+{
+  "data" : [
+    {
+      "filename" : "haptics.ahap",
+      "idiom" : "universal",
+      "universal-type-identifier" : "com.apple.haptics.ahap"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

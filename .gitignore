@@ -1,0 +1,48 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon?
+._*
+
+# Xcode / SwiftPM user state
+#
+# Everything under .swiftpm/xcode/xcshareddata is intentionally tracked:
+# it holds the shared "Word Hunter" scheme so the project opens correctly
+# on a fresh clone. Only per-user state is ignored below.
+xcuserdata/
+*.xcuserstate
+*.xcuserdatad/
+*.moved-aside
+*.pbxuser
+*.perspectivev3
+!default.pbxuser
+!default.perspectivev3
+
+# Build products
+.build/
+build/
+DerivedData/
+*.o
+*.hmap
+*.ipa
+*.dSYM.zip
+*.dSYM
+
+# Swift Package Manager
+#
+# Package.resolved IS tracked: this is an application, so pinned
+# dependency versions belong in version control.
+.swiftpm/configuration/registries.json
+.swiftpm/xcode/package.xcworkspace/contents.xcworkspacedata.bak
+Packages/
+.netrc
+
+# Playgrounds
+timeline.xctimeline
+playground.xcworkspace
+
+# Editors
+.idea/
+.vscode/
+*.swp

@@ -1,0 +1,216 @@
+[
+  {
+    "allClassifications" : [
+      {
+        "confidence" : 0.7305677,
+        "label" : "outdoor"
+      },
+      {
+        "confidence" : 0.7296365,
+        "label" : "sky"
+      },
+      {
+        "confidence" : 0.7143909,
+        "label" : "boat"
+      },
+      {
+        "confidence" : 0.7143909,
+        "label" : "machine"
+      },
+      {
+        "confidence" : 0.7143909,
+        "label" : "vehicle"
+      },
+      {
+        "confidence" : 0.7143909,
+        "label" : "watercraft"
+      },
+      {
+        "confidence" : 0.71435547,
+        "label" : "rowboat"
+      },
+      {
+        "confidence" : 0.5917969,
+        "label" : "blue sky"
+      },
+      {
+        "confidence" : 0.57470703,
+        "label" : "cloudy"
+      },
+      {
+        "confidence" : 0.5371094,
+        "label" : "sunset sunrise"
+      },
+      {
+        "confidence" : 0.4633961,
+        "label" : "liquid"
+      },
+      {
+        "confidence" : 0.4633961,
+        "label" : "water"
+      },
+      {
+        "confidence" : 0.4633961,
+        "label" : "water body"
+      },
+      {
+        "confidence" : 0.4633789,
+        "label" : "ocean"
+      },
+      {
+        "confidence" : 0.21207617,
+        "label" : "land"
+      },
+      {
+        "confidence" : 0.21191406,
+        "label" : "beach"
+      },
+      {
+        "confidence" : 0.08251953,
+        "label" : "speedboat"
+      },
+      {
+        "confidence" : 0.06958008,
+        "label" : "canoe"
+      },
+      {
+        "confidence" : 0.051757812,
+        "label" : "lake"
+      },
+      {
+        "confidence" : 0.051430717,
+        "label" : "structure"
+      },
+      {
+        "confidence" : 0.05126953,
+        "label" : "oar"
+      },
+      {
+        "confidence" : 0.05126953,
+        "label" : "pole"
+      },
+      {
+        "confidence" : 0.049804688,
+        "label" : "shore"
+      },
+      {
+        "confidence" : 0.02735274,
+        "label" : "recreation"
+      },
+      {
+        "confidence" : 0.027352305,
+        "label" : "sport"
+      },
+      {
+        "confidence" : 0.027343834,
+        "label" : "sports equipment"
+      },
+      {
+        "confidence" : 0.02734375,
+        "label" : "surfboard"
+      },
+      {
+        "confidence" : 0.016845703,
+        "label" : "rocks"
+      },
+      {
+        "confidence" : 0.014160156,
+        "label" : "daytime"
+      },
+      {
+        "confidence" : 0.014160156,
+        "label" : "sun"
+      },
+      {
+        "confidence" : 0.013916016,
+        "label" : "hill"
+      },
+      {
+        "confidence" : 0.0124514075,
+        "label" : "people"
+      },
+      {
+        "confidence" : 0.012451172,
+        "label" : "adult"
+      },
+      {
+        "confidence" : 0.012207031,
+        "label" : "kayak"
+      },
+      {
+        "confidence" : 0.010986328,
+        "label" : "yacht"
+      },
+      {
+        "confidence" : 0.0075683594,
+        "label" : "dock"
+      },
+      {
+        "confidence" : 0.0063476562,
+        "label" : "wood processed"
+      },
+      {
+        "confidence" : 0.005859375,
+        "label" : "pier"
+      },
+      {
+        "confidence" : 0.0051309685,
+        "label" : "watersport"
+      },
+      {
+        "confidence" : 0.0051274933,
+        "label" : "cord"
+      },
+      {
+        "confidence" : 0.005126953,
+        "label" : "jetski"
+      },
+      {
+        "confidence" : 0.005126953,
+        "label" : "rope"
+      },
+      {
+        "confidence" : 0.0048835906,
+        "label" : "furniture"
+      },
+      {
+        "confidence" : 0.004882828,
+        "label" : "chair"
+      },
+      {
+        "confidence" : 0.0048828125,
+        "label" : "folding chair"
+      },
+      {
+        "confidence" : 0.0048828125,
+        "label" : "lifesaver"
+      },
+      {
+        "confidence" : 0.0036621455,
+        "label" : "optical equipment"
+      },
+      {
+        "confidence" : 0.0036621094,
+        "label" : "sunglasses"
+      },
+      {
+        "confidence" : 0.0031738281,
+        "label" : "fence"
+      },
+      {
+        "confidence" : 0.0029521396,
+        "label" : "material"
+      }
+    ],
+    "captureId" : "49D803CA-60B3-4E51-BAE1-210076ADFCAF",
+    "selectedWords" : [
+      {
+        "lemma" : "la barca",
+        "originLabel" : "boat",
+        "source" : "classification",
+        "translation" : "boat, small boat"
+      }
+    ],
+    "timestamp" : "2026-02-28T22:38:32Z"
+  }
+]

@@ -1,0 +1,216 @@
+[
+  {
+    "allClassifications" : [
+      {
+        "confidence" : 0.9677747,
+        "label" : "machine"
+      },
+      {
+        "confidence" : 0.96777344,
+        "label" : "atm"
+      },
+      {
+        "confidence" : 0.40234575,
+        "label" : "structure"
+      },
+      {
+        "confidence" : 0.4023443,
+        "label" : "sign"
+      },
+      {
+        "confidence" : 0.078125,
+        "label" : "keypad"
+      },
+      {
+        "confidence" : 0.050027277,
+        "label" : "material"
+      },
+      {
+        "confidence" : 0.049804688,
+        "label" : "raw glass"
+      },
+      {
+        "confidence" : 0.033635903,
+        "label" : "document"
+      },
+      {
+        "confidence" : 0.024353404,
+        "label" : "conveyance"
+      },
+      {
+        "confidence" : 0.024352921,
+        "label" : "portal"
+      },
+      {
+        "confidence" : 0.023925781,
+        "label" : "door"
+      },
+      {
+        "confidence" : 0.020019531,
+        "label" : "printed page"
+      },
+      {
+        "confidence" : 0.01953125,
+        "label" : "banner"
+      },
+      {
+        "confidence" : 0.017578125,
+        "label" : "brick"
+      },
+      {
+        "confidence" : 0.012451172,
+        "label" : "window"
+      },
+      {
+        "confidence" : 0.012207534,
+        "label" : "container"
+      },
+      {
+        "confidence" : 0.012207031,
+        "label" : "mailbox"
+      },
+      {
+        "confidence" : 0.012207031,
+        "label" : "rocks"
+      },
+      {
+        "confidence" : 0.010009766,
+        "label" : "wood processed"
+      },
+      {
+        "confidence" : 0.009771255,
+        "label" : "outdoor"
+      },
+      {
+        "confidence" : 0.009765625,
+        "label" : "building"
+      },
+      {
+        "confidence" : 0.009765625,
+        "label" : "storefront"
+      },
+      {
+        "confidence" : 0.009606317,
+        "label" : "people"
+      },
+      {
+        "confidence" : 0.009521484,
+        "label" : "adult"
+      },
+      {
+        "confidence" : 0.009277344,
+        "label" : "handwriting"
+      },
+      {
+        "confidence" : 0.005126953,
+        "label" : "textile"
+      },
+      {
+        "confidence" : 0.0043945312,
+        "label" : "fence"
+      },
+      {
+        "confidence" : 0.0041503906,
+        "label" : "map"
+      },
+      {
+        "confidence" : 0.003132264,
+        "label" : "art"
+      },
+      {
+        "confidence" : 0.0026855469,
+        "label" : "illustrations"
+      },
+      {
+        "confidence" : 0.0024414062,
+        "label" : "payphone"
+      },
+      {
+        "confidence" : 0.0024414062,
+        "label" : "phone"
+      },
+      {
+        "confidence" : 0.0022198553,
+        "label" : "decoration"
+      },
+      {
+        "confidence" : 0.0021975168,
+        "label" : "cord"
+      },
+      {
+        "confidence" : 0.0021972656,
+        "label" : "elevator"
+      },
+      {
+        "confidence" : 0.0021972656,
+        "label" : "frame"
+      },
+      {
+        "confidence" : 0.0021972656,
+        "label" : "screenshot"
+      },
+      {
+        "confidence" : 0.0020797458,
+        "label" : "land"
+      },
+      {
+        "confidence" : 0.0019829522,
+        "label" : "path"
+      },
+      {
+        "confidence" : 0.0017261623,
+        "label" : "plant"
+      },
+      {
+        "confidence" : 0.0017089844,
+        "label" : "foliage"
+      },
+      {
+        "confidence" : 0.0014648438,
+        "label" : "arch"
+      },
+      {
+        "confidence" : 0.0014648438,
+        "label" : "credit card"
+      },
+      {
+        "confidence" : 0.0014648438,
+        "label" : "graffiti"
+      },
+      {
+        "confidence" : 0.0014648438,
+        "label" : "stairs"
+      },
+      {
+        "confidence" : 0.0014648438,
+        "label" : "statue"
+      },
+      {
+        "confidence" : 0.0012289205,
+        "label" : "sky"
+      },
+      {
+        "confidence" : 0.0012284417,
+        "label" : "road"
+      },
+      {
+        "confidence" : 0.0012207031,
+        "label" : "blue sky"
+      },
+      {
+        "confidence" : 0.0012207031,
+        "label" : "book"
+      }
+    ],
+    "captureId" : "5AE5C6A3-00D7-4BD4-89BB-90C2E20A3B88",
+    "selectedWords" : [
+      {
+        "lemma" : "la máquina",
+        "originLabel" : "machine",
+        "source" : "classification",
+        "translation" : "machine"
+      }
+    ],
+    "timestamp" : "2026-02-28T22:39:13Z"
+  }
+]

@@ -1,0 +1,133 @@
+# Third-Party Notices
+
+Word Hunter bundles or depends on the third-party software and assets listed
+below. Each is used under the terms of its own license, reproduced or linked
+here. Nothing in this file modifies the terms of the project's own
+[MIT license](LICENSE).
+
+---
+
+## 1. ZIPFoundation
+
+Used for reading and writing the `.zip` archives produced by the collection
+export/import feature (`App/Collection/ExportImportManager.swift`).
+
+- **Project:** https://github.com/weichsel/ZIPFoundation
+- **Version:** 0.9.20 (pinned in `Package.resolved`, revision `22787ffb59de99e5dc1fbfe80b19c97a904ad48d`)
+- **License:** MIT
+- **Integration:** fetched as a Swift Package Manager dependency; its source is
+  not vendored into this repository.
+
+```
+MIT License
+
+Copyright (c) 2017-2026 Thomas Zoechling (https://www.peakstep.com)
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+```
+
+---
+
+## 2. union-tab-view
+
+Portions of the custom tab bar in `App/UI/Shell/BottomBarView.swift` are
+adapted from this project.
+
+- **Project:** https://github.com/unionst/union-tab-view
+- **Author:** Ben Sage — Union St (https://unionst.com)
+- **License:** MIT, as declared in the project's `README.md`.
+
+**Note on provenance:** at the time of writing, the upstream repository
+declares "MIT" in its README but does not publish a `LICENSE` file or a
+copyright line. The standard MIT terms are therefore reproduced below with
+attribution to the author named in that README, reflecting the stated intent
+of the original project.
+
+```
+MIT License
+
+Copyright (c) Ben Sage (Union St)
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+```
+
+---
+
+## 3. Caveat (font)
+
+Used for the handwritten captions on polaroid cards.
+
+- **Project:** https://github.com/googlefonts/caveat
+- **Copyright:** Copyright 2014 The Caveat Project Authors
+  (https://github.com/googlefonts/caveat)
+- **License:** SIL Open Font License, Version 1.1
+- **Full license text:** [`licenses/Caveat-OFL.txt`](licenses/Caveat-OFL.txt)
+  (verbatim copy of the upstream `OFL.txt`)
+- **Files:** `App/Media.xcassets/fonts/Caveat-Regular.dataset/Caveat-Regular.ttf`,
+  `App/Media.xcassets/fonts/Caveat-Bold.dataset/Caveat-Bold.ttf`
+
+The font is embedded unmodified and is not sold separately, as required by the
+OFL.
+
+---
+
+## 4. Bundled data
+
+**Spanish lexicon** (`App/Media.xcassets/lexicon.dataset/lexicon.sqlite`) —
+24,892 headwords and 152,166 inflected forms, used for lemmatization and
+reverse lookup. English translations are AI-generated.
+
+<!-- ACTION REQUIRED before publishing: state where the headword and
+     inflected-form data originated (e.g. Wiktionary, FreeDict, Apertium, a
+     frequency list, or self-generated), and name its license. If the source
+     is share-alike (such as Wiktionary's CC BY-SA), that obligation must be
+     recorded here and may affect how this data can be redistributed. -->
+
+**Classification deranking weights**
+(`App/Media.xcassets/classification_deranking_weights.dataset/weights.json`) —
+generated by `External/derive_weights.py` from the author's own scan logs.
+Original to this project.
+
+**Preloaded demo captures** (`App/Media.xcassets/PreloadImages/`,
+`App/Media.xcassets/camerasourcemockdata/`) — photographs taken by the author.
+Original to this project. EXIF metadata has been stripped.
+
+**Sound and haptics** (`App/Media.xcassets/sound.dataset/sound.wav`,
+`App/Media.xcassets/haptics.dataset/haptics.ahap`)
+
+<!-- ACTION REQUIRED before publishing: confirm the origin of sound.wav. If it
+     came from a library such as Freesound, add the source, author and license
+     (many require CC BY attribution). If it is original, say so and delete
+     this comment. -->

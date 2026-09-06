@@ -1,0 +1,216 @@
+[
+  {
+    "allClassifications" : [
+      {
+        "confidence" : 0.7299807,
+        "label" : "container"
+      },
+      {
+        "confidence" : 0.72998047,
+        "label" : "vase"
+      },
+      {
+        "confidence" : 0.58593804,
+        "label" : "people"
+      },
+      {
+        "confidence" : 0.5859375,
+        "label" : "adult"
+      },
+      {
+        "confidence" : 0.5181457,
+        "label" : "art"
+      },
+      {
+        "confidence" : 0.5180873,
+        "label" : "decoration"
+      },
+      {
+        "confidence" : 0.47998047,
+        "label" : "bouquet"
+      },
+      {
+        "confidence" : 0.47998047,
+        "label" : "flower arrangement"
+      },
+      {
+        "confidence" : 0.40004674,
+        "label" : "structure"
+      },
+      {
+        "confidence" : 0.39233398,
+        "label" : "wood processed"
+      },
+      {
+        "confidence" : 0.3762207,
+        "label" : "frame"
+      },
+      {
+        "confidence" : 0.19634353,
+        "label" : "furniture"
+      },
+      {
+        "confidence" : 0.19628906,
+        "label" : "table"
+      },
+      {
+        "confidence" : 0.18489756,
+        "label" : "plant"
+      },
+      {
+        "confidence" : 0.17743742,
+        "label" : "material"
+      },
+      {
+        "confidence" : 0.17407227,
+        "label" : "raw glass"
+      },
+      {
+        "confidence" : 0.16333008,
+        "label" : "foliage"
+      },
+      {
+        "confidence" : 0.14313962,
+        "label" : "conveyance"
+      },
+      {
+        "confidence" : 0.1431396,
+        "label" : "portal"
+      },
+      {
+        "confidence" : 0.14208984,
+        "label" : "window"
+      },
+      {
+        "confidence" : 0.14111328,
+        "label" : "decorative plant"
+      },
+      {
+        "confidence" : 0.092285156,
+        "label" : "textile"
+      },
+      {
+        "confidence" : 0.08835195,
+        "label" : "flower"
+      },
+      {
+        "confidence" : 0.07740029,
+        "label" : "interior room"
+      },
+      {
+        "confidence" : 0.07739258,
+        "label" : "restaurant"
+      },
+      {
+        "confidence" : 0.0769043,
+        "label" : "painting"
+      },
+      {
+        "confidence" : 0.07520295,
+        "label" : "clothing"
+      },
+      {
+        "confidence" : 0.07519531,
+        "label" : "suit"
+      },
+      {
+        "confidence" : 0.07446289,
+        "label" : "dahlia"
+      },
+      {
+        "confidence" : 0.06518555,
+        "label" : "carnation"
+      },
+      {
+        "confidence" : 0.05908203,
+        "label" : "door"
+      },
+      {
+        "confidence" : 0.057128906,
+        "label" : "rose"
+      },
+      {
+        "confidence" : 0.036922265,
+        "label" : "light"
+      },
+      {
+        "confidence" : 0.036865234,
+        "label" : "lamp"
+      },
+      {
+        "confidence" : 0.033691406,
+        "label" : "chrysanthemum"
+      },
+      {
+        "confidence" : 0.03296126,
+        "label" : "chair"
+      },
+      {
+        "confidence" : 0.032958984,
+        "label" : "chair other"
+      },
+      {
+        "confidence" : 0.026855469,
+        "label" : "trash can"
+      },
+      {
+        "confidence" : 0.026123047,
+        "label" : "brick"
+      },
+      {
+        "confidence" : 0.024658203,
+        "label" : "desk"
+      },
+      {
+        "confidence" : 0.020996094,
+        "label" : "daisy"
+      },
+      {
+        "confidence" : 0.01977539,
+        "label" : "curtain"
+      },
+      {
+        "confidence" : 0.017971618,
+        "label" : "machine"
+      },
+      {
+        "confidence" : 0.017971046,
+        "label" : "consumer electronics"
+      },
+      {
+        "confidence" : 0.017578125,
+        "label" : "cabinet"
+      },
+      {
+        "confidence" : 0.015730347,
+        "label" : "computer"
+      },
+      {
+        "confidence" : 0.015625,
+        "label" : "computer monitor"
+      },
+      {
+        "confidence" : 0.014404297,
+        "label" : "television"
+      },
+      {
+        "confidence" : 0.013399159,
+        "label" : "luggage"
+      },
+      {
+        "confidence" : 0.012451172,
+        "label" : "child"
+      }
+    ],
+    "captureId" : "23C22E92-1E08-4106-A716-1312BAFB9AE3",
+    "selectedWords" : [
+      {
+        "lemma" : "el florero",
+        "originLabel" : "vase",
+        "source" : "classification",
+        "translation" : "vase, flowerpot"
+      }
+    ],
+    "timestamp" : "2026-02-28T22:44:55Z"
+  }
+]
