@@ -4,9 +4,11 @@ Word Hunter is a Spanish vocabulary app built as a photography scavenger hunt. P
 
 **Winner, Apple Swift Student Challenge 2026** · iOS 18+ · SwiftUI + SwiftData · 11.5k lines · no network, no accounts
 
-| Scan → polaroid | Collection | Categories | Achievement |
-|---|---|---|---|
-| ![Scanning a scene and collecting a word](docs/screenshots/scan-flow.gif) | ![The collection of captured words](docs/screenshots/collection.png) | ![A category grid partly filled in](docs/screenshots/categories.png) | ![An achievement unlock celebration](docs/screenshots/achievement.gif) |
+<p align="center">
+  <img src="docs/screenshots/scan-to-achievement.gif" alt="Scanning a scene, collecting a word, and unlocking an achievement" height="460">
+  <img src="docs/screenshots/collection.png" alt="The collection of captured words" height="460">
+  <img src="docs/screenshots/categories.png" alt="A category grid partly filled in" height="460">
+</p>
 
 **Scan** a scene and words arrive from three sources. Vision recognises the objects in frame (`el perro`) and reads any text it can see (`la salida`). An on-device language model then suggests verbs and adjectives that go with them (`ladrar`, `suave`). **Collect** the ones you want. Scanning *gato* again across town adds a second photo to that word rather than creating a duplicate. **Hunt** through five categories of 25 words, laid out as empty boxes that your photos fill in one by one. **Unlock** 17 achievements. *Touch Grass* needs a hand and grass in the same shot. *Early Bird* requires a scan between 4 and 6 AM. *Déjà Vu* asks for one word photographed in three places at least 500 m apart. Several of them can only be finished outdoors.
 
